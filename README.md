@@ -29,5 +29,11 @@ This project entails the creation of a Terraform module for a 3tier VPC architec
 
 <img width="1440" alt="Terraform_module_3tier_VPC_CADD_Project1" src="https://github.com/user-attachments/assets/f64c395e-43f9-4d8c-bb3e-d7ace37ffd14">
 
+![image](https://github.com/user-attachments/assets/76574c6e-1c5f-4067-b4c0-68a5f9a9309c)
 
+![image](https://github.com/user-attachments/assets/921f557b-1803-4034-8192-e3d2ae4ab3fd)
+
+![image](https://github.com/user-attachments/assets/a471c369-e1e6-46f3-ab7e-b7eb0e18d394)
+
+![image](https://github.com/user-attachments/assets/13360e7e-99c5-46b4-a5a1-f8a6996fcfbc)
 
